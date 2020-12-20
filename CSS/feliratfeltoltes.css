@@ -1,0 +1,32 @@
+body {
+    background-color: none;
+    height: 100%;
+}
+
+.div1 {
+    font: 18pt Arial;
+    margin-left: 50px;
+    margin-right: 50px;
+    float: left;
+}
+
+.div2 {
+    font: 18pt Arial;
+    
+    margin-right: 50px;
+    float: left;
+}
+
+.div3 {
+    font: 18pt Arial;
+    
+}
+
+
+
+
+.adatok{
+    margin-top: 1%;
+    font: 18pt Arial;
+    line-height: 1.5;
+}
